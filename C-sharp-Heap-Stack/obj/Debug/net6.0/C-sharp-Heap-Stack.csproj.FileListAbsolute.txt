@@ -1,0 +1,14 @@
+C:\Workspace Code Academy\C-sharp-Heap-Stack\C-sharp-Heap-Stack\bin\Debug\net6.0\C-sharp-Heap-Stack.exe
+C:\Workspace Code Academy\C-sharp-Heap-Stack\C-sharp-Heap-Stack\bin\Debug\net6.0\C-sharp-Heap-Stack.deps.json
+C:\Workspace Code Academy\C-sharp-Heap-Stack\C-sharp-Heap-Stack\bin\Debug\net6.0\C-sharp-Heap-Stack.runtimeconfig.json
+C:\Workspace Code Academy\C-sharp-Heap-Stack\C-sharp-Heap-Stack\bin\Debug\net6.0\C-sharp-Heap-Stack.dll
+C:\Workspace Code Academy\C-sharp-Heap-Stack\C-sharp-Heap-Stack\bin\Debug\net6.0\C-sharp-Heap-Stack.pdb
+C:\Workspace Code Academy\C-sharp-Heap-Stack\C-sharp-Heap-Stack\obj\Debug\net6.0\C-sharp-Heap-Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace Code Academy\C-sharp-Heap-Stack\C-sharp-Heap-Stack\obj\Debug\net6.0\C-sharp-Heap-Stack.AssemblyInfoInputs.cache
+C:\Workspace Code Academy\C-sharp-Heap-Stack\C-sharp-Heap-Stack\obj\Debug\net6.0\C-sharp-Heap-Stack.AssemblyInfo.cs
+C:\Workspace Code Academy\C-sharp-Heap-Stack\C-sharp-Heap-Stack\obj\Debug\net6.0\C-sharp-Heap-Stack.csproj.CoreCompileInputs.cache
+C:\Workspace Code Academy\C-sharp-Heap-Stack\C-sharp-Heap-Stack\obj\Debug\net6.0\C-sharp-Heap-Stack.dll
+C:\Workspace Code Academy\C-sharp-Heap-Stack\C-sharp-Heap-Stack\obj\Debug\net6.0\refint\C-sharp-Heap-Stack.dll
+C:\Workspace Code Academy\C-sharp-Heap-Stack\C-sharp-Heap-Stack\obj\Debug\net6.0\C-sharp-Heap-Stack.pdb
+C:\Workspace Code Academy\C-sharp-Heap-Stack\C-sharp-Heap-Stack\obj\Debug\net6.0\C-sharp-Heap-Stack.genruntimeconfig.cache
+C:\Workspace Code Academy\C-sharp-Heap-Stack\C-sharp-Heap-Stack\obj\Debug\net6.0\ref\C-sharp-Heap-Stack.dll
